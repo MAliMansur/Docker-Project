@@ -14,7 +14,7 @@ const employees = [
   { id: 2, name: "Ahmed", department: "Cloud" },
   { id: 3, name: "Sara", department: "Engineering" },
   { id: 4, name: "Rehman", department: "Developer" },
-  { id: 5, name: "Nazim", department: "Developers" }
+  { id: 5, name: "Nazim", department: "Developers" },
   { id: 5, name: "Zain", department: "Developers" }
 ];
 
